@@ -1,9 +1,9 @@
-const contractAddress = "0x82712f418DaD77cCD8B700DCfb7eA38c05a07a7C"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x6f0a1596b492eb8c1b3a09e08cdcba305f1deb63"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the CryptoEmperorsClub NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CryptoEmperorsClubNFT Project is a unique collection of 5,555 Samurais. The Samurais are here to restore law and order in te Metaverse and they need their EMPERORS!n. learn more about us with <a href="https://cryptoemperors.info"  target="_blank" rel="noopener noreferrer">cryptoEMP</a> Website.';
+const welcome_p = 'The CryptoEmperorsClubNFT Project is a unique collection of 4,444 Samurais. The Samurais are here to restore law and order in te Metaverse and they need their EMPERORS!n. learn more about us with <a href="https://cryptoemperors.info"  target="_blank" rel="noopener noreferrer">cryptoEMP</a> Website.';
 const h1_presale_coming_soon = "PRESALE is live!!!!!!";
 const h1_presale_mint = "Mint an EMPEROR!!";
 const h1_public_mint = "Public Minting Open!!";
