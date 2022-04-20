@@ -35,7 +35,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  max-width: 960px;
+  max-width: 950px;
   margin: 0 auto;
   padding: 1rem 2rem;
   justify-content: center;
@@ -388,6 +388,11 @@ section {
     font-size: 13px;
   }
 }
+ @media screen and (){
+  .features {
+    background: red;
+  } 
+ }
 
 /* UTILITIES */
 
