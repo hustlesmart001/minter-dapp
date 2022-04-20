@@ -43,17 +43,17 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'CryptoemperorclubNFT';
+const CONTRACT_NAME = 'CryptoemperorclubNFTN';
 const CONTRACT_SYMBOL = 'CEMP';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
-const OWNER_ADDRESS = '0x56d8CC1C0dE130069630A97c75fF87A0015D085d';
-const TREASURY_ADDRESS = '0x83D18403Af318eb113bbFa500e7Be1ec12AD7e09';
-const MAX_SUPPLY = 500; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const OWNER_ADDRESS = '0x4f6a60282861f5680B46585B29F81ed44c411Bc3';
+const TREASURY_ADDRESS = '0x56d8CC1C0dE130069630A97c75fF87A0015D085d';
+const MAX_SUPPLY = 5555; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 0.01; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PUBLIC_MINT_START_DATE = "2022-04-20T11:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
+const PUBLIC_MINT_START_DATE = "2022-05-19T11:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
 const PRESALE_MINT_START_DATE = "2022-04-18T11:30:48+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
